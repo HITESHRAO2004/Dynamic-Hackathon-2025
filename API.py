@@ -29,7 +29,7 @@ CORS(app)
 
 @app.route('/', methods=['GET'])
 def home():
-    return "Vehicle RUL and Failure Prediction API is live!"
+    return "RUL and Failure Prediction API is live!"
 
 # Preprocess incoming data for the models
 def preprocess_data(data):
