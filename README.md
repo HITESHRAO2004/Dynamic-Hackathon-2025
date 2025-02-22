@@ -1,4 +1,4 @@
-# Car Predictive Maintenance System
+# Remote Equipment Monitoring and Predictive Maintenance Dashboard For Crane Operations
 
 ## Requirements
 
@@ -59,11 +59,11 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/Salonii2/car-predictive-maintenance.git
+   git clone https://github.com/HITESHRAO2004/Dynamic-Hackathon-2025.git
 
 3. **Navigate into the project directory**:
    ```bash
-   cd car-predictive-maintenance
+   cd Dynamic-Hackathon-2025
 
 4. **Install Python dependencies**:
    ```bash
@@ -71,12 +71,12 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
 
 5. **Start the Flask API and wait for some time**:
    ```bash
-   python volkswogen_api.py
+   python API.py
 
-6. **When API Start Running on 'http://127.0.0.1:5000' and start showing 'Vehicle RUL Prediction API is live!'** then Open new Command Prompt (press Win + R, type cmd, and press Enter) and 
+6. **When API Start Running on 'http://127.0.0.1:5000' and start showing ' RUL Prediction API is live!'** then Open new Command Prompt (press Win + R, type cmd, and press Enter) and 
    Naviagate into the project directory again:
    ```bash
-   cd car-predictive-maintenance
+   cd Dynamic-Hackathon-2025
 
 7. **Install project dependencies**:
    ```bash
@@ -90,6 +90,6 @@ To verify if Python 3.11 has been installed correctly on your system, follow the
    ```bash
    http://localhost:5173
 
-10. Keep Track of your Vehicle Health, Maintainence and Failure Predictions with our **AI-ML Powered Car Predictive Maintainence System**
+10. Keep Track of your Crane Health, Maintainence and Failure Predictions with our **Remote Equipment Monitoring and Predictive Maintenance Dashboard For Crane Operations**
     ```bash
     Thank you
